@@ -31,6 +31,24 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+#thecope {
+  text-decoration:none;
+  font-size:70px;
+  color:#474747;
+  font-weight:800;
+  text-align:left;
+  display:inline-block;
+  margin: 18px 0 0 0;
+}
+
+#byline {
+  color: #E44232;
+  font-weight:700;
+  display:inline-block;
+  vertical-align: text-bottom;
+  margin:0 0 0 10px;
+}
+
 a {
   color: #268bd2;
   text-decoration: none;
